@@ -58,3 +58,5 @@
 ##### 1.4.4.2 File locking
 * 文件加锁的粒度不一定是整个文件，有可能是文件的某一部分，也分为共享锁和排他锁 
 * （TODO）File locks are either advisory or mandatory   
+##### 1.4.5 Stream I/O
+* 流式I/O有两种，阻塞和非阻塞
